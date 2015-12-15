@@ -1,4 +1,31 @@
 <resources>
     <string name="app_name">Magic Ball</string>
     <string name="action_settings">Settings</string>
+    <string name="Boton">Haz tu Pregunta </string>
+
+
+<string-array name="predictions">
+
+    <item>En mi opinión,si</item>
+    <item>Es cierto</item>
+    <item>Es decididamente asi</item>
+    <item>Probablemente</item>
+    <item>Buen pronóstico</item>
+    <item>Todo apunta a que si</item>
+    <item>sin duda</item>
+    <item>si</item>
+    <item>si,definitivamente</item>
+    <item>debes confiar en ello</item>
+    <item>Respuesta vaga,vuelve a intentarlo</item>
+    <item>Pregunta en otro momento</item>
+    <item>sera mejor que no te lo diga ahora</item>
+    <item>no puedo predecirtelo ahora</item>
+    <item>concentrate y vuelve a preguntar</item>
+    <item>no cuentes con ello</item>
+    <item>mi respuesta es no</item>
+    <item>las perspectivas no son buenas</item>
+    <item>Muy dudoso</item>
+
+</string-array>
+
 </resources>
